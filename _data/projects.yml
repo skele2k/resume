@@ -1,0 +1,23 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# FAS
+- project: FAS
+  role: Primary Developer
+  duration: 2020 July &mdash; 2020 Dec
+  # url: "#"
+  description: FAS is a fingerprint attendance system where workers scan their fingerprints when they enter/leave the workspace. 
+
+# vibey.mn
+- project: vibey.mn
+  role: Founder & Primary Developer
+  duration: 2021 July &mdash; 2022 Mar
+  # url: "#"
+  description: Vibey is a platform where people can rent a house easily. Developed both front-end and back-end using stacks described in the skills section below.
+
+# Deep learning
+- project: SSD Performance improvement through Deep-Learning 
+  role: Model devolepment
+  duration: 2022 Jun &mdash; 2022 Oct
+  # url: "#"
+  description: Deep Learning can be used in optimizing the garbage collection algorithm of SSD. Using LSTM, our team improved the performance of GC by 14%.  
